@@ -12,7 +12,8 @@ export default defineConfig({
     host: true,
     allowedHosts: [
       'feliz-cumpleanos-angie.onrender.com', // ← CORREGIDO: "angie" en lugar de "angle"
-      'feliz-cumpleanos-angle.onrender.com'  // ← También mantén el original por si acaso
+      'feliz-cumpleanos-angle.onrender.com',  // ← También mantén el original por si acaso
+      'cumpleanos-angie-production.up.railway.app'
     ]
   }
 })
